@@ -1,6 +1,6 @@
 {
   "name": "agito-http-protocol",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An Agito plugin to support the HTTP protocol in input requests",
   "scripts": {
     "test": "make lint test",
